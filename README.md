@@ -16,4 +16,4 @@ This project analyzes sales data for BikeStore using Python.
 ## How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/BikeStore.git
+   git clone https://github.com/megahed1/BikeStore.git
